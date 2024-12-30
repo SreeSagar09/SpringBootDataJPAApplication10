@@ -1,0 +1,1 @@
+A Program to show how to work with predefined save, saveAll, deleteById, deleteAllById and deleteAll methods:

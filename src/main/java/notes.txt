@@ -1,0 +1,12 @@
+A Program to show how to work with predefined save, saveAll, deleteById, deleteAllById and deleteAll methods:
+Programs:
+* SpringBootDataJPAApplication10Application.java
+* ProductController.java
+* Product.java
+* ProductRepository.java
+* ProductService.java
+* ProductServiceImpl.java
+Notes:
+
+Output:
+From main method in SpringBootDataJPAApplication10Application class.
