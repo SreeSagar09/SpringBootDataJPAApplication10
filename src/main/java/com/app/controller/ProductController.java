@@ -55,7 +55,7 @@ public class ProductController {
 		return responseEntity;
 	}
 	
-	@PutMapping(path = "updateProduct")
+	@PutMapping(path = "/updateProduct")
 	public ResponseEntity<Product> updateProduct(@RequestBody Product product){
 		
 		ResponseEntity<Product> responseEntity = null;
